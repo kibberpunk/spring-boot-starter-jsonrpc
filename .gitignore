@@ -54,6 +54,9 @@ tmp/
 ################
 Gemfile.lock
 
+### VS Code ###
+.vscode/
+
 # Mac OS stuff #
 ################
 .DS_Store

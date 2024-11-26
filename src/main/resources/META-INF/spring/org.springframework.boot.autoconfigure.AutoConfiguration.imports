@@ -1,0 +1,2 @@
+com.kibberpunk.spring.boot.starter.jsonrpc.context.JsonRpcAutoConfiguration
+com.kibberpunk.spring.boot.starter.jsonrpc.context.JsonRpcSwaggerAutoConfiguration
